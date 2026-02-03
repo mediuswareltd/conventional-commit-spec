@@ -1,4 +1,4 @@
-# Mediusware conventional commit standards
+# Mediusware Conventional Commit Standards
 
 Last Updated: January 2026  
 Status: Mandatory for All Contributors

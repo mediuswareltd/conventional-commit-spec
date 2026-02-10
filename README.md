@@ -93,7 +93,7 @@ Ensure commits use personal GitHub accounts with correct name/email for identity
 ### **Commit Identity Configuration**
 
 git config \--global user.name "Rashed"  
-git config \--global user.email "rashed@mediusware.com"
+git config \--global user.email "example@mediusware.com"
 
 ### **Verification**
 
@@ -102,7 +102,7 @@ git config \--global user.email
 
 ### **Expected Output**
 
-Author: Rashed \<rashed@mediusware.com\>  
+Author: Rashed \<example@mediusware.com\>  
 Date:   Mon Jan 15 14:30:00 2026 \+0600
 
 ### **SSH Authentication**

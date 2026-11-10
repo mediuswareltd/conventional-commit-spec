@@ -5,6 +5,9 @@ hero:
   name: "Conventional Commit Spec"
   text: "Mediusware Git branching and commit standards"
   tagline: "Mandatory conventional-commit, branching, PR, and release standards for Mediusware contributors."
+  image:
+    src: /hero.svg
+    alt: "Conventional Commit Spec"
   actions:
   - theme: brand
     text: Get started

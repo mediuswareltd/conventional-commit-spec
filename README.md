@@ -1,5 +1,7 @@
 # Mediusware Conventional Commit Standards
 
+[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-0f766e)](https://mediuswareltd.github.io/conventional-commit-spec/)
+
 Last Updated: January 2026  
 Status: Mandatory for All Contributors
 
@@ -439,3 +441,14 @@ These standards apply to all team members including leads.
 3. Third violation: Performance discussion  
 4. Pattern of violations: Management escalation
 
+## Documentation
+
+Full docs site (VitePress): **https://mediuswareltd.github.io/conventional-commit-spec/**
+
+Local preview:
+
+```bash
+cd docs
+npm install
+npm run docs:dev
+```

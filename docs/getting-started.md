@@ -1,27 +1,22 @@
 # Getting started
 
-Install and run **Conventional Commit Spec** locally.
+Run **Conventional Commit Spec** on your machine.
 
-## Prerequisites
-
-- Working knowledge of Docs
-- Git and a terminal
-
-## Install
+## 1. Install
 
 ```bash
 # clone and read the guide
 git clone https://github.com/mediuswareltd/conventional-commit-spec.git
 ```
 
-## Quick start
+## 2. Quick start
 
 ```bash
 # open the README and follow the table of contents
 # enforce via @mediusware/mw-husky-config commit-msg hook
 ```
 
-## Next steps
+## Next
 
-- Read the [Guide](/guide) for features and usage.
-- Star or contribute on [GitHub](https://github.com/mediuswareltd/conventional-commit-spec).
+- Full detail: [Guide](/guide)
+- Source: [github.com/mediuswareltd/conventional-commit-spec](https://github.com/mediuswareltd/conventional-commit-spec)
